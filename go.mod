@@ -1,4 +1,4 @@
-module github.com/btcsuite/btcutil
+module github.com/setpill/btcutil
 
 go 1.14
 
